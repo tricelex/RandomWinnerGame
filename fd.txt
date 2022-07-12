@@ -1,0 +1,1 @@
+graph init --contract-name RandomWinnerGame --product hosted-service tricelex/Learnweb3  --from-contract 0xe7cFCaA31eb4479027e9631c476CdE83477aE07B  --abi ./abi.json --network mumbai graph
